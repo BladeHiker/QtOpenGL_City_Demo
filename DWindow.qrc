@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>texture.jpg</file>
+        <file>uvtemplate.bmp</file>
+    </qresource>
+</RCC>
