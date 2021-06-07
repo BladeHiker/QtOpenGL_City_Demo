@@ -6,8 +6,8 @@
 读取.obj文件仅支持三角面，可以用Blender修改。
 
 ## 开发环境
-Microsoft Visual Studio 2019
-Qt 5.15.0
+Microsoft Visual Studio 2019\
+Qt 5.15.0\
 OpenGL 3.3.0 core
 
 ## 模型借物
