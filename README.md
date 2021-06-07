@@ -1,9 +1,14 @@
 # QtOpenGL_City_Demo
 计算机图形学实验
 
-写的比较匆忙，仅供参考，**写作业请自己写**
+写的比较匆忙，仅供参考。
 
 读取.obj文件仅支持三角面，可以用Blender修改。
+
+## 开发环境
+Microsoft Visual Studio 2019
+Qt 5.15.0
+OpenGL 3.3.0 core
 
 ## 模型借物
 
